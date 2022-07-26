@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monica-RM311
-- I am a crew member of the misionTIC 2022 program
+- I am a crew member of the misionTIC 2022 program in Colombia
 - 👀 I’m interested in Frontend, web Development and UX/UI Design
 - 🌱 I’m currently learning Python, Java, JavaScript, CSS. 
 - 💞️ My first career is industrial design. 
